@@ -1,0 +1,17 @@
+---
+version: 1
+strategy: fullsync
+
+excludes:
+    - app/storage/
+    - app/config/production/
+    - bootstrap/compiled.php
+    - vendor/
+
+composer:
+    mode: always
+    method: update
+
+post-deploy:
+    script: artisan
+    args: ['migrate']

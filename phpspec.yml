@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Choose
+        psr4_prefix: Choose
+        src_path: app
