@@ -71,6 +71,7 @@
         "command.tinker": "Illuminate\\Foundation\\Providers\\ArtisanServiceProvider",
         "command.up": "Illuminate\\Foundation\\Providers\\ArtisanServiceProvider",
         "command.vendor.publish": "Illuminate\\Foundation\\Providers\\ArtisanServiceProvider",
+        "command.view.clear": "Illuminate\\Foundation\\Providers\\ArtisanServiceProvider",
         "Illuminate\\Bus\\Dispatcher": "Illuminate\\Bus\\BusServiceProvider",
         "Illuminate\\Contracts\\Bus\\Dispatcher": "Illuminate\\Bus\\BusServiceProvider",
         "Illuminate\\Contracts\\Bus\\QueueingDispatcher": "Illuminate\\Bus\\BusServiceProvider",

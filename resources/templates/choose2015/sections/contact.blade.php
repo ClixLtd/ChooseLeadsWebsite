@@ -56,7 +56,7 @@
                     <div class="col-sm-5">01793 60 88 34<br /><a href="mailto:data.lovers@chooseleads.co.uk">data.lovers@chooseleads.co.uk</a></div>
                 </div>
                 <div class="row" style="padding-top: 10px; color: RGBA(255,255,255,0.5)">
-                    <div class="col-sm-12 text-center"><b>Registered Address:</b> Studio GC 36-37 Warple Way, London, W3 0RG</div>
+                    <div class="col-sm-12 text-center"><b>Registered Address:</b> Lower Ground Floor, 111 Charterhouse Street, London, EC1M 6AW</div>
                 </div>
             </div>
         </div>
