@@ -315,7 +315,7 @@ body
 }
 
 // Choose Leads Voice
-#chooseleadsvoice-container {
+#chooserealtime-container {
   @extend .standardSection;
   background-color: #9c43a0;
   background-image: url("/img/backgrounds/clv-block.png");
@@ -329,7 +329,7 @@ body
 }
 
 // CLV-Dynamix
-#clvdynamix-container {
+#crtdynamix-container {
   @extend .standardSection;
   background-color: #FFFFFF;
   background-repeat: no-repeat;

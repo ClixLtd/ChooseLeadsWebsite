@@ -11,8 +11,8 @@
                     <li><a href="" data-link="contactus-container" class="scrollTo"><span class="socialIcon"><img src="/img/icons/contact.png"></span></a></li>
                     <li><a href="" data-link="contactus-container" class="scrollTo"><span class="socialIcon"><img src="/img/icons/location.png"></span></a></li>
                     <li><a href="" data-link="meettheteam-container" class="scrollTo">Meet The Team</a></li>
-                    <li><a href="" data-link="clvdynamix-container" class="scrollTo">CLV Dynamix</a></li>
-                    <li><a href="" data-link="chooseleadsvoice-container" class="scrollTo">CLV Call Center</a></li>
+                    <li><a href="" data-link="crtdynamix-container" class="scrollTo">CRT Dynamix</a></li>
+                    <li><a href="" data-link="chooserealtime-container" class="scrollTo">CRT Call Center</a></li>
                     <li><a href="" data-link="chooseleads-container" class="scrollTo">ChooseLeads</a></li>
                 </ul>
                 <ul class="hidden-md hidden-lg">
@@ -23,8 +23,8 @@
                 <div class="col-xs-12">
                     <ul>
                         <li><a href="" data-link="chooseleads-container" class="scrollTo">ChooseLeads</a></li>
-                        <li><a href="" data-link="chooseleadsvoice-container" class="scrollTo">CLV Call Center</a></li>
-                        <li><a href="" data-link="clvdynamix-container" class="scrollTo">CLV Dynamix</a></li>
+                        <li><a href="" data-link="chooserealtime-container" class="scrollTo">CRT Call Center</a></li>
+                        <li><a href="" data-link="crtdynamix-container" class="scrollTo">CRT Dynamix</a></li>
                         <li><a href="" data-link="meettheteam-container" class="scrollTo">Meet The Team</a></li>
 
                         <li>

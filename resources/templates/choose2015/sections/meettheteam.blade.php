@@ -34,7 +34,7 @@
                         <img src="/img/team/t4.png">
                         <div class="meetInformation">
                         <span><b>Jade Nash</b><br />
-                        Choose Leads CEO & CLV Business Partner</span>
+                        Choose Leads CEO & CRT Business Partner</span>
                         </div>
                     </div></div>
             </div>
@@ -48,6 +48,8 @@
                 <div class="meetHolder"><div class="meetPerson" style="background-color: #ffffff;">
                         <img src="/img/team/t6.png">
                         <div class="meetInformation">
+                        <span><b>James Haylett</b><br />
+                        CRT Business Partner</span>
                         </div>
                     </div></div>
             </div>

@@ -93,27 +93,27 @@ body {
           color: #9c43a0;
           text-decoration: none; }
 
-.standardSection, #companyArea-container, #chooseleads-container, #chooseleadsvoice-container, #clvdynamix-container, #meettheteam-container, #contactus-container {
+.standardSection, #companyArea-container, #chooseleads-container, #chooserealtime-container, #crtdynamix-container, #meettheteam-container, #contactus-container {
   padding: 50px 0px 50px 0px;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   letter-spacing: 0.75px;
   line-height: 150%;
   font-weight: 300; }
-  .standardSection p, #companyArea-container p, #chooseleads-container p, #chooseleadsvoice-container p, #clvdynamix-container p, #meettheteam-container p, #contactus-container p {
+  .standardSection p, #companyArea-container p, #chooseleads-container p, #chooserealtime-container p, #crtdynamix-container p, #meettheteam-container p, #contactus-container p {
     padding: 0px 0px 20px 0px; }
-  .standardSection p:last-child, #companyArea-container p:last-child, #chooseleads-container p:last-child, #chooseleadsvoice-container p:last-child, #clvdynamix-container p:last-child, #meettheteam-container p:last-child, #contactus-container p:last-child {
+  .standardSection p:last-child, #companyArea-container p:last-child, #chooseleads-container p:last-child, #chooserealtime-container p:last-child, #crtdynamix-container p:last-child, #meettheteam-container p:last-child, #contactus-container p:last-child {
     padding: 0px 0px 0px 0px; }
-  .standardSection .titleImage, #companyArea-container .titleImage, #chooseleads-container .titleImage, #chooseleadsvoice-container .titleImage, #clvdynamix-container .titleImage, #meettheteam-container .titleImage, #contactus-container .titleImage {
+  .standardSection .titleImage, #companyArea-container .titleImage, #chooseleads-container .titleImage, #chooserealtime-container .titleImage, #crtdynamix-container .titleImage, #meettheteam-container .titleImage, #contactus-container .titleImage {
     width: 80%; }
-  .standardSection ul, #companyArea-container ul, #chooseleads-container ul, #chooseleadsvoice-container ul, #clvdynamix-container ul, #meettheteam-container ul, #contactus-container ul {
+  .standardSection ul, #companyArea-container ul, #chooseleads-container ul, #chooserealtime-container ul, #crtdynamix-container ul, #meettheteam-container ul, #contactus-container ul {
     margin: 0px;
     padding: 0px;
     list-style: none; }
-    .standardSection ul li, #companyArea-container ul li, #chooseleads-container ul li, #chooseleadsvoice-container ul li, #clvdynamix-container ul li, #meettheteam-container ul li, #contactus-container ul li {
+    .standardSection ul li, #companyArea-container ul li, #chooseleads-container ul li, #chooserealtime-container ul li, #crtdynamix-container ul li, #meettheteam-container ul li, #contactus-container ul li {
       margin: 10px 0px 10px 0px;
       padding: 0px; }
-      .standardSection ul li a, #companyArea-container ul li a, #chooseleads-container ul li a, #chooseleadsvoice-container ul li a, #clvdynamix-container ul li a, #meettheteam-container ul li a, #contactus-container ul li a {
+      .standardSection ul li a, #companyArea-container ul li a, #chooseleads-container ul li a, #chooserealtime-container ul li a, #crtdynamix-container ul li a, #meettheteam-container ul li a, #contactus-container ul li a {
         color: #ffffff;
         text-decoration: underline; }
 
@@ -201,6 +201,7 @@ body {
 #companyArea-container img {
   width: 200px;
   padding: 0px 0px 20px 0px; }
+
 #companyArea-container .button-row {
   margin-top: 30px; }
 
@@ -249,20 +250,20 @@ body {
   #chooseleads-container b {
     color: #FFFFFF; }
 
-#chooseleadsvoice-container {
+#chooserealtime-container {
   background-color: #9c43a0;
   background-image: url("/img/backgrounds/clv-block.png");
   background-position: bottom left;
   background-repeat: no-repeat;
   color: #cccccc; }
-  #chooseleadsvoice-container b {
+  #chooserealtime-container b {
     color: #FFFFFF; }
 
-#clvdynamix-container {
+#crtdynamix-container {
   background-color: #FFFFFF;
   background-repeat: no-repeat; }
   @media (min-width: 1026px) {
-    #clvdynamix-container {
+    #crtdynamix-container {
       background-image: url("/img/backgrounds/clvdynamix-block-right.png"), url("/img/backgrounds/clvdynamix-block-left.png");
       background-position: bottom right, bottom left; } }
 
@@ -374,8 +375,7 @@ body {
         height: 154px;
         width: 154px;
         -webkit-transform: rotate(45deg);
-            -ms-transform: rotate(45deg);
-                transform: rotate(45deg);
+        transform: rotate(45deg);
         background-color: #ffffff;
         overflow: hidden; }
         .meetHolder .meetRow .meetHolder .meetPerson:hover {
@@ -386,8 +386,7 @@ body {
             display: block; }
         .meetHolder .meetRow .meetHolder .meetPerson img {
           -webkit-transform: rotate(-45deg);
-              -ms-transform: rotate(-45deg);
-                  transform: rotate(-45deg);
+          transform: rotate(-45deg);
           position: absolute;
           top: -20px;
           left: -20px;
@@ -399,8 +398,7 @@ body {
           height: 149.82px;
           width: 149.82px;
           -webkit-transform: rotate(-45deg);
-              -ms-transform: rotate(-45deg);
-                  transform: rotate(-45deg);
+          transform: rotate(-45deg);
           font-size: 12px;
           line-height: 13px; }
           .meetHolder .meetRow .meetHolder .meetPerson .meetInformation span {
@@ -421,19 +419,19 @@ body {
 .socialIcon img {
   height: 20px;
   -webkit-filter: grayscale(1);
-          filter: grayscale(1);
+  filter: grayscale(1);
   opacity: 0.2; }
   .socialIcon img:hover {
     opacity: 1;
     -webkit-filter: none;
-            filter: none; }
+    filter: none; }
 
 .menuIcon img {
   height: 20px; }
   .menuIcon img:hover {
     opacity: 1;
     -webkit-filter: none;
-            filter: none; }
+    filter: none; }
 
 @media (min-width: 768px) {
   .row {
@@ -465,10 +463,12 @@ body {
       top: 5px;
       right: 5px;
       -webkit-filter: grayscale(1);
-              filter: grayscale(1); }
+      filter: grayscale(1); }
     #overlay #choices #options {
       height: 240px;
       width: 544px; }
 
 .extraPad {
   margin-bottom: 20px; }
+
+/*# sourceMappingURL=app.css.map */
