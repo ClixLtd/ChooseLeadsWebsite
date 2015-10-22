@@ -8,7 +8,8 @@
                 <a href="/docs/consumers-opt-out.pdf">Consumers Opt Out</a> <span class="hidden-xs">-</span><br class="hidden-sm hidden-lg hidden-md" />
                 <a href="/docs/website-privacy-policy.pdf">Website Privacy Policy</a>
                 <p class="lightText">
-                    ChooseLeads is registered with the Information Commissioner's Office under registration reference ZA031580.
+                    ChooseLeads Ltd (Company Registration: 08241795) is registered with the Information Commissioner's Office under registration reference ZA031580.<br />
+                    Choose Real Time Ltd (Company Registration: 09802099) is registered with the Information Commissioner's Office under registration reference ZA144347.<br />
                 </p>
             </div>
             <div class="col-md-3">
